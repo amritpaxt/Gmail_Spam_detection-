@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+artifacts/*.joblib
+outputs/*.png
+outputs/*.json
+outputs/*.csv
+outputs/*.jsonl
+data/*.csv
+!data/README.md
+secrets/*
+!secrets/README.md
+state/*
+!state/.gitkeep
+
